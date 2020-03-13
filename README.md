@@ -1,5 +1,6 @@
 # BBSJSP
 #부트스트랩을 이용한 JSP 게시판입니다.
+1. 메인 페이지  (carousel을 이용한 이미지 출력)
 ![image](https://user-images.githubusercontent.com/48196352/76629554-cb0c7800-6581-11ea-8a88-ee9c70776649.png)
 
 
